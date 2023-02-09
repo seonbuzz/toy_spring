@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ToySpringbootApplication<toy_springboot>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.toy.toy_springboot.ToySpringbootApplication",
+      "projectName": "toy_springboot",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
